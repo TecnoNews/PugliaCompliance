@@ -1,0 +1,121 @@
+{
+  "common": {
+    "getStarted": "Commencer",
+    "contactUs": "Contactez-nous",
+    "peaceOfMind": "Tranquillité d'esprit",
+    "basedInPuglia": "Basé dans les Pouilles | Professionnels anglophones"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "process": "Processus",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Service de Conformité pour Locations de Vacances dans les Pouilles",
+    "subtitle": "Rendez votre maison de vacances entièrement conforme. Nous gérons tout.",
+    "cta": "Assurez votre tranquillité d'esprit dès aujourd'hui"
+  },
+  "problem": {
+    "title": "Nouvelle Obligation Mandataire",
+    "description": "La région des Pouilles a introduit une nouvelle exigence obligatoire. Pour continuer à opérer légalement, vous devez déposer une 'CIA' (Comunicazione di Inizio Attività).",
+    "bullets": [
+      "C'est un mandat légal strict de la région des Pouilles.",
+      "Il s'applique spécifiquement aux locations touristiques non entrepreneuriales.",
+      "Il doit être formellement soumis au SUAP local (Sportello Unico Attività Produttive)."
+    ],
+    "deadline": {
+      "title": "Date Limite Critique",
+      "date": "30 septembre 2026",
+      "note": "(pour les propriétés déjà enregistrées dans le DMS Puglia)"
+    },
+    "risks": {
+      "title": "Les Risques",
+      "description": "Opérer sans une CIA soumise entraînera des sanctions financières et un statut opérationnel non autorisé et illégal pour votre propriété de location."
+    }
+  },
+  "barriers": {
+    "title": "La Vraie Barrière",
+    "description": "La loi elle-même n'est qu'une règle ; le véritable mal de tête est l'exécution. Le processus nécessite de naviguer dans des portails italiens complexes comme ImpresainGiorno, d'obtenir un SPID (Identité Numérique) et de traiter avec le SUAP local. Pour les non-italiens, la barrière de la langue et les complexités systémiques sont les véritables menaces pour votre tranquillité d'esprit."
+  },
+  "solution": {
+    "title": "Résoudre le Casse-tête Bureaucratique",
+    "subtitle": "Nous combinons une puissance technique locale avec un service client international.",
+    "dario": {
+      "name": "Dario",
+      "role": "Consultant Fiscal Local",
+      "description": "Basé dans les Pouilles, maître absolu des réglementations régionales et expert pratique de toute la réglementation fiscale en Italie."
+    },
+    "maria": {
+      "name": "Maria",
+      "role": "Experte en Relations Internationales",
+      "description": "Une experte en relations internationales avec un réseau établi de clients étrangers. Elle comble le fossé culturel et s'assure que vous êtes pleinement soutenu. Elle gère de nombreuses pratiques administratives."
+    },
+    "fluent": {
+      "title": "Fluent en anglais, natif dans les Pouilles",
+      "description": "Nous savons que pour les propriétaires internationaux, la langue est la première barrière. Notre service est 100% professionnel et 100% compréhensible. Nous traduisons les lois fiscales et régionales italiennes complexes en un anglais clair et exploitable."
+    }
+  },
+  "packages": {
+    "title": "Des solutions sur mesure pour vos besoins spécifiques",
+    "subtitle": "Nous avons structuré nos services de conformité en trois niveaux distincts.",
+    "basic": {
+      "name": "BASIC",
+      "description": "Le service essentiel pour garantir que vous respectez le mandat régional.",
+      "features": [
+        "Vérification des exigences d'éligibilité",
+        "Rédaction du document CIA",
+        "Soumission formelle au SUAP local",
+        "Livraison du reçu officiellement enregistré",
+        "Assistance continue par e-mail en anglais"
+      ]
+    },
+    "plus": {
+      "name": "PLUS",
+      "description": "Amélioré avec un meilleur accès systémique et plus de clarté.",
+      "features": [
+        "Tous les services BASIC",
+        "Assistance dédiée à l'acquisition de votre SPID",
+        "Soutien pratique pour les enregistrements régionaux nécessaires",
+        "Un Mini Guide Fiscal sur mesure, écrit entièrement en anglais"
+      ]
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "description": "Le bouclier ultime pour votre investissement, offrant une tranquillité d'esprit toute l'année.",
+      "features": [
+        "Tous les services PLUS",
+        "Conseil fiscal spécialisé pour les locations de courte durée",
+        "Assistance complète IMU (taxe foncière)",
+        "Soutien complet et représentation en cas d'audit",
+        "Assistance annuelle continue pour votre propriété"
+      ]
+    }
+  },
+  "process": {
+    "title": "Un chemin clair et simple",
+    "step1": {
+      "title": "Contactez-nous",
+      "description": "Contactez-nous pour discuter de votre propriété spécifique."
+    },
+    "step2": {
+      "title": "Révision",
+      "description": "Nous fournissons une liste de contrôle claire des documents, un calendrier précis et un contrat simple en anglais."
+    },
+    "step3": {
+      "title": "Détendez-vous",
+      "description": "Choisissez votre forfait et laissez-nous gérer la bureaucratie pendant que vous profitez de votre maison dans les Pouilles."
+    }
+  },
+  "footer": {
+    "partnership": "Un partenariat à long terme pour votre propriété",
+    "description": "La CIA n'est que le point d'entrée. Nous sommes ici pour protéger votre investissement aujourd'hui et l'optimiser pour l'avenir.",
+    "contactTitle": "Contactez-nous",
+    "nameLabel": "Nom Complet",
+    "emailLabel": "Adresse E-mail",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "sendButton": "Envoyer le Message",
+    "rights": "Tous droits réservés."
+  }
+}

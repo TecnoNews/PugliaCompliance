@@ -1,0 +1,121 @@
+{
+  "common": {
+    "getStarted": "Inizia Ora",
+    "contactUs": "Contattaci",
+    "peaceOfMind": "Tranquillità",
+    "basedInPuglia": "Basati in Puglia | Professionisti di Lingua Inglese"
+  },
+  "nav": {
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "process": "Processo",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Servizio di Compliance per Affitti Turistici in Puglia",
+    "subtitle": "Rendi la tua casa vacanze pienamente conforme. Gestiamo tutto noi.",
+    "cta": "Assicura la tua tranquillità oggi stesso"
+  },
+  "problem": {
+    "title": "Nuovo Requisito Obbligatorio",
+    "description": "La Regione Puglia ha introdotto un nuovo requisito obbligatorio. Per continuare a operare legalmente, è necessario presentare una 'CIA' (Comunicazione di Inizio Attività).",
+    "bullets": [
+      "È un mandato legale rigoroso della Regione Puglia.",
+      "Si applica specificamente agli affitti turistici non imprenditoriali.",
+      "Deve essere presentato formalmente al SUAP locale (Sportello Unico Attività Produttive)."
+    ],
+    "deadline": {
+      "title": "Scadenza Critica",
+      "date": "30 Settembre 2026",
+      "note": "(per le proprietà già registrate nel DMS Puglia)"
+    },
+    "risks": {
+      "title": "I Rischi",
+      "description": "Operare senza una CIA presentata comporterà sanzioni finanziarie e uno stato operativo non autorizzato e illegale per la tua proprietà in affitto."
+    }
+  },
+  "barriers": {
+    "title": "La Vera Barriera",
+    "description": "La legge stessa è solo una regola; il vero mal di testa è l'esecuzione. Il processo richiede la navigazione in complessi portali italiani come ImpresainGiorno, l'ottenimento di uno SPID (Identità Digitale) e la gestione con il SUAP locale. Per i non italiani, la barriera linguistica e le complessità sistemiche sono le vere minacce alla tua tranquillità."
+  },
+  "solution": {
+    "title": "Risolvere il Puzzle Burocratico",
+    "subtitle": "Combiniamo potenza tecnica locale con cura del cliente internazionale.",
+    "dario": {
+      "name": "Dario",
+      "role": "Consulente Fiscale Locale",
+      "description": "Basato in Puglia, maestro assoluto delle normative regionali ed esperto pratico di tutta la regolamentazione fiscale in Italia."
+    },
+    "maria": {
+      "name": "Maria",
+      "role": "Esperta in Relazioni Internazionali",
+      "description": "Un'esperta in relazioni internazionali con una rete consolidata di clienti stranieri. Colma il divario culturale e assicura che tu sia pienamente supportato. Gestisce numerose pratiche amministrative."
+    },
+    "fluent": {
+      "title": "Fluenti in Inglese, nativi in Puglia",
+      "description": "Sappiamo che per i proprietari internazionali, la lingua è la prima barriera. Il nostro servizio è professionale al 100% e comprensibile al 100%. Traduciamo le complesse leggi fiscali e regionali italiane in un inglese chiaro e attuabile."
+    }
+  },
+  "packages": {
+    "title": "Soluzioni su misura per le tue esigenze specifiche",
+    "subtitle": "Abbiamo strutturato i nostri servizi di compliance in tre livelli distinti.",
+    "basic": {
+      "name": "BASIC",
+      "description": "Il servizio essenziale per garantire il rispetto del mandato regionale.",
+      "features": [
+        "Controllo dei requisiti di idoneità",
+        "Redazione del documento CIA",
+        "Presentazione formale al SUAP locale",
+        "Consegna della ricevuta ufficialmente registrata",
+        "Assistenza email continua in inglese"
+      ]
+    },
+    "plus": {
+      "name": "PLUS",
+      "description": "Potenziato con maggiore accesso sistemico e chiarezza.",
+      "features": [
+        "Tutti i servizi BASIC",
+        "Assistenza dedicata nell'acquisizione dello SPID",
+        "Supporto pratico per le registrazioni regionali necessarie",
+        "Una Mini Guida Fiscale personalizzata, scritta interamente in inglese"
+      ]
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "description": "Lo scudo definitivo per il tuo investimento, offrendo tranquillità tutto l'anno.",
+      "features": [
+        "Tutti i servizi PLUS",
+        "Consulenza fiscale specializzata per affitti brevi",
+        "Assistenza completa IMU (imposta municipale unica)",
+        "Supporto completo e rappresentanza in caso di audit",
+        "Assistenza annuale continua per la tua proprietà"
+      ]
+    }
+  },
+  "process": {
+    "title": "Un percorso chiaro e semplice",
+    "step1": {
+      "title": "Contattaci",
+      "description": "Contattaci per discutere della tua proprietà specifica."
+    },
+    "step2": {
+      "title": "Revisione",
+      "description": "Forniamo una chiara check-list dei documenti, una cronologia precisa e un contratto semplice in inglese."
+    },
+    "step3": {
+      "title": "Rilassati",
+      "description": "Scegli il tuo pacchetto e lascia che gestiamo noi la burocrazia mentre ti godi la tua casa pugliese."
+    }
+  },
+  "footer": {
+    "partnership": "Una partnership a lungo termine per la tua proprietà",
+    "description": "La CIA è solo il punto di ingresso. Siamo qui per proteggere il tuo investimento oggi e ottimizzarlo per il futuro.",
+    "contactTitle": "Contattaci",
+    "nameLabel": "Nome Completo",
+    "emailLabel": "Indirizzo Email",
+    "messageLabel": "Messaggio",
+    "messagePlaceholder": "Come possiamo aiutarti?",
+    "sendButton": "Invia Messaggio",
+    "rights": "Tutti i diritti riservati."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "peaceOfMind": "Peace of Mind",
+    "basedInPuglia": "Based in Puglia | English-Speaking Professionals"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About Us",
+    "process": "Process",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Holiday Rental Compliance Service in Puglia",
+    "subtitle": "Make your holiday home fully compliant. We handle everything.",
+    "cta": "Secure your peace of mind today"
+  },
+  "problem": {
+    "title": "New Mandatory Requirement",
+    "description": "The Puglia Region has introduced a new mandatory requirement. To continue operating legally, you must file a 'CIA' (Comunicazione di Inizio Attività).",
+    "bullets": [
+      "It is a strict legal mandate from the Puglia Region.",
+      "It applies specifically to non-entrepreneurial tourist rentals.",
+      "It must be formally submitted to the local SUAP (Sportello Unico Attività Produttive)."
+    ],
+    "deadline": {
+      "title": "Critical Deadline",
+      "date": "September 30, 2026",
+      "note": "(for properties already registered in DMS Puglia)"
+    },
+    "risks": {
+      "title": "The Risks",
+      "description": "Operating without a submitted CIA will result in financial penalties and an unauthorized, illegal operational status for your rental property."
+    }
+  },
+  "barriers": {
+    "title": "The Real Barrier",
+    "description": "The law itself is just a rule; the actual headache is the execution. The process requires navigating complex Italian portals like ImpresainGiorno, securing a SPID (Digital Identity), and dealing with the local SUAP. For non-italians, the language barrier and systemic complexities are the true threats to your peace of mind."
+  },
+  "solution": {
+    "title": "Solving the Bureaucratic Puzzle",
+    "subtitle": "We combine local technical firepower with international client care.",
+    "dario": {
+      "name": "Dario",
+      "role": "Local Tax Consultant",
+      "description": "Based in Puglia, absolute master of regional regulations, and a practical expert in all tax regulation in Italy."
+    },
+    "maria": {
+      "name": "Maria",
+      "role": "International Relations Expert",
+      "description": "An international relations expert with an established network of foreign clients. She bridges the cultural gap and ensures you are fully supported. She handles numerous administrative practices."
+    },
+    "fluent": {
+      "title": "Fluent in English, native in Puglia",
+      "description": "We know that for international owners, language is the first barrier. Our service is 100% professional and 100% understandable. We translate complex Italian tax and regional laws into clear, actionable English."
+    }
+  },
+  "packages": {
+    "title": "Tailored solutions for your specific needs",
+    "subtitle": "We have structured our compliance services into three distinct tiers.",
+    "basic": {
+      "name": "BASIC",
+      "description": "The essential service to ensure you meet the regional mandate.",
+      "features": [
+        "Eligibility requirements check",
+        "Drafting of the CIA document",
+        "Formal submission to the local SUAP",
+        "Delivery of the officially registered receipt",
+        "Ongoing email assistance in English"
+      ]
+    },
+    "plus": {
+      "name": "PLUS",
+      "description": "Enhanced with greater systemic access and clarity.",
+      "features": [
+        "All BASIC services",
+        "Dedicated assistance in acquiring your SPID",
+        "Hands-on support for necessary regional registrations",
+        "A bespoke Mini Tax Guide, written entirely in English"
+      ]
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "description": "The ultimate shield for your investment, offering year-round peace of mind.",
+      "features": [
+        "All PLUS services",
+        "Specialized short-term rental tax consulting",
+        "Complete IMU (property tax) assistance",
+        "Full support and representation in the event of an audit",
+        "Continuous annual assistance for your property"
+      ]
+    }
+  },
+  "process": {
+    "title": "A clear and simple path forward",
+    "step1": {
+      "title": "Reach out",
+      "description": "Contact us to discuss your specific property."
+    },
+    "step2": {
+      "title": "Review",
+      "description": "We provide a clear document check-list, a precise timeline, and a simple contract in English."
+    },
+    "step3": {
+      "title": "Relax",
+      "description": "Choose your package and let us handle the bureaucracy while you enjoy your Apulian home."
+    }
+  },
+  "footer": {
+    "partnership": "A long-term partnership for your property",
+    "description": "The CIA is just the entry point. We are here to protect your investment today and optimize it for the future.",
+    "contactTitle": "Get in Touch",
+    "nameLabel": "Full Name",
+    "emailLabel": "Email Address",
+    "messageLabel": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "sendButton": "Send Message",
+    "rights": "All rights reserved."
+  }
+}

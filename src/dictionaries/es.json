@@ -1,0 +1,121 @@
+{
+  "common": {
+    "getStarted": "Empezar",
+    "contactUs": "Contáctanos",
+    "peaceOfMind": "Tranquilidad",
+    "basedInPuglia": "Basados en Puglia | Profesionales de habla inglesa"
+  },
+  "nav": {
+    "services": "Servicios",
+    "about": "Sobre nosotros",
+    "process": "Proceso",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Servicio de Cumplimiento para Alquileres Vacacionales en Puglia",
+    "subtitle": "Haz que tu casa de vacaciones cumpla plenamente con la ley. Nosotros nos encargamos de todo.",
+    "cta": "Asegura tu tranquilidad hoy mismo"
+  },
+  "problem": {
+    "title": "Nuevo Requisito Obligatorio",
+    "description": "La Región de Puglia ha introducido un nuevo requisito obligatorio. Para seguir operando legalmente, debes presentar una 'CIA' (Comunicazione di Inizio Attività).",
+    "bullets": [
+      "Es un mandato legal estricto de la Región de Puglia.",
+      "Se aplica específicamente a los alquileres turísticos no empresariales.",
+      "Debe presentarse formalmente ante el SUAP local (Sportello Unico Attività Produttive)."
+    ],
+    "deadline": {
+      "title": "Fecha Límite Crítica",
+      "date": "30 de septiembre de 2026",
+      "note": "(para propiedades ya registradas en DMS Puglia)"
+    },
+    "risks": {
+      "title": "Los Riesgos",
+      "description": "Operar sin una CIA presentada resultará en sanciones financieras y un estado operativo no autorizado e ilegal para tu propiedad de alquiler."
+    }
+  },
+  "barriers": {
+    "title": "La Verdadera Barrera",
+    "description": "La ley en sí es solo una regla; el verdadero dolor de cabeza es la ejecución. El proceso requiere navegar por complejos portales italianos como ImpresainGiorno, obtener un SPID (Identidad Digital) y tratar con el SUAP local. Para los no italianos, la barrera del idioma y las complejidades sistémicas son las verdaderas amenazas para tu tranquilidad."
+  },
+  "solution": {
+    "title": "Resolviendo el Rompecabezas Burocrático",
+    "subtitle": "Combinamos potencia técnica local con atención al cliente internacional.",
+    "dario": {
+      "name": "Dario",
+      "role": "Consultor Fiscal Local",
+      "description": "Basado en Puglia, maestro absoluto de las regulaciones regionales y experto práctico en toda la regulación fiscal en Italia."
+    },
+    "maria": {
+      "name": "Maria",
+      "role": "Experta en Relaciones Internacionales",
+      "description": "Una experta en relaciones internacionales con una red establecida de clientes extranjeros. Ella cierra la brecha cultural y asegura que estés plenamente respaldado. Maneja numerosas prácticas administrativas."
+    },
+    "fluent": {
+      "title": "Fluidez en inglés, nativos en Puglia",
+      "description": "Sabemos que para los propietarios internacionales, el idioma es la primera barrera. Nuestro servicio es 100% profesional y 100% comprensible. Traducimos las complejas leyes fiscales y regionales italianas a un inglés claro y práctico."
+    }
+  },
+  "packages": {
+    "title": "Soluciones a medida para tus necesidades específicas",
+    "subtitle": "Hemos estructurado nuestros servicios de cumplimiento en tres niveles distintos.",
+    "basic": {
+      "name": "BASIC",
+      "description": "El servicio esencial para garantizar que cumples con el mandato regional.",
+      "features": [
+        "Verificación de requisitos de elegibilidad",
+        "Redacción del documento CIA",
+        "Presentación formal ante el SUAP local",
+        "Entrega del recibo oficialmente registrado",
+        "Asistencia continua por correo electrónico en inglés"
+      ]
+    },
+    "plus": {
+      "name": "PLUS",
+      "description": "Mejorado con mayor acceso sistémico y claridad.",
+      "features": [
+        "Todos los servicios BASIC",
+        "Asistencia dedicada en la adquisición de tu SPID",
+        "Apoyo práctico para los registros regionales necesarios",
+        "Una Mini Guía Fiscal personalizada, escrita íntegramente en inglés"
+      ]
+    },
+    "premium": {
+      "name": "PREMIUM",
+      "description": "El escudo definitivo para tu inversión, ofreciendo tranquilidad durante todo el año.",
+      "features": [
+        "Todos los servicios PLUS",
+        "Consultoría fiscal especializada en alquileres a corto plazo",
+        "Asistencia completa de IMU (impuesto sobre la propiedad)",
+        "Apoyo total y representación en caso de auditoría",
+        "Asistencia anual continua para tu propiedad"
+      ]
+    }
+  },
+  "process": {
+    "title": "Un camino claro y sencillo",
+    "step1": {
+      "title": "Contáctanos",
+      "description": "Contáctanos para discutir tu propiedad específica."
+    },
+    "step2": {
+      "title": "Revisión",
+      "description": "Proporcionamos una lista de verificación de documentos clara, un cronograma preciso y un contrato sencillo en inglés."
+    },
+    "step3": {
+      "title": "Relájate",
+      "description": "Elige tu paquete y déjanos manejar la burocracia mientras disfrutas de tu hogar en Puglia."
+    }
+  },
+  "footer": {
+    "partnership": "Una asociación a largo plazo para tu propiedad",
+    "description": "La CIA es solo el punto de entrada. Estamos aquí para proteger tu inversión hoy y optimizarla para el futuro.",
+    "contactTitle": "Contáctanos",
+    "nameLabel": "Nombre Completo",
+    "emailLabel": "Dirección de Correo Electrónico",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "¿Cómo podemos ayudarte?",
+    "sendButton": "Enviar Mensaje",
+    "rights": "Todos los derechos reservados."
+  }
+}

@@ -31,12 +31,12 @@ export function Footer({ dict }: { dict: any }) {
                 </div>
                 <span className="text-lg text-stone-300 group-hover:text-white transition-colors">info@pugliacompliance.com</span>
               </div>
-              <div className="flex items-center gap-4 group cursor-pointer">
+              {/*<div className="flex items-center gap-4 group cursor-pointer">
                 <div className="p-3 bg-white/5 rounded-xl group-hover:bg-brand-green transition-colors">
                   <Phone className="w-6 h-6 text-brand-green group-hover:text-white" />
                 </div>
                 <span className="text-lg text-stone-300 group-hover:text-white transition-colors">+39 080 123 4567</span>
-              </div>
+              </div>*/}
               <div className="flex items-center gap-4 group cursor-pointer">
                 <div className="p-3 bg-white/5 rounded-xl group-hover:bg-brand-green transition-colors">
                   <MapPin className="w-6 h-6 text-brand-green group-hover:text-white" />
@@ -78,10 +78,10 @@ export function Footer({ dict }: { dict: any }) {
         <div className="pt-12 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-3">
             <div className="relative w-10 h-10 overflow-hidden">
-              <Image 
-                src="/Logo_pcompliance_2.png" 
-                alt="Puglia Compliance Logo" 
-                fill 
+              <Image
+                src="/Logo_pcompliance_2.png"
+                alt="Puglia Compliance Logo"
+                fill
                 className="object-contain"
               />
             </div>
@@ -90,7 +90,7 @@ export function Footer({ dict }: { dict: any }) {
               <span className="text-brand-green">Compliance</span>
             </div>
           </div>
-          
+
           <div className="flex items-center gap-6">
             <Link href="#" className="text-stone-400 hover:text-white transition-colors"><Instagram className="w-6 h-6" /></Link>
             <Link href="#" className="text-stone-400 hover:text-white transition-colors"><Linkedin className="w-6 h-6" /></Link>

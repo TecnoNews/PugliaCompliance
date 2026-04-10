@@ -11,7 +11,7 @@ export function Hero({ dict }: { dict: any }) {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&q=100&w=2800"
+          src="/trulli.jpg"
           alt="Puglia Landscape - Polignano a Mare"
           fill
           className="object-cover brightness-[0.8]"
@@ -31,10 +31,10 @@ export function Hero({ dict }: { dict: any }) {
           >
             <div className="flex items-center gap-4 mb-8">
               <div className="relative w-16 h-16 overflow-hidden">
-                <Image 
-                  src="/Logo_pcompliance.png" 
-                  alt="Puglia Compliance Logo" 
-                  fill 
+                <Image
+                  src="/Logo_pcompliance_2.png"
+                  alt="Puglia Compliance Logo"
+                  fill
                   className="object-contain"
                 />
               </div>
@@ -61,10 +61,7 @@ export function Hero({ dict }: { dict: any }) {
       </div>
 
       {/* Decorative Elements */}
-      <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2">
-        <span className="text-stone-600 text-xs font-semibold uppercase tracking-[0.2em] animate-pulse">Scroll</span>
-        <div className="w-px h-12 bg-gradient-to-b from-stone-400 to-transparent" />
-      </div>
+
     </section>
   );
 }

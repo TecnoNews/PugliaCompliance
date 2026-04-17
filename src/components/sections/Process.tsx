@@ -59,7 +59,7 @@ export function Process({ dict }: { dict: any }) {
                 <div className="relative z-10 w-20 h-20 bg-white rounded-full flex items-center justify-center shadow-xl shadow-stone-200 border border-stone-100">
                   <step.icon className="w-10 h-10 text-brand-green" />
                 </div>
-                <div className="absolute -top-2 -right-2 w-10 h-10 bg-brand-blue text-white rounded-full flex items-center justify-center font-serif font-bold text-xl border-4 border-white">
+                <div className="absolute -top-2 -right-1 w-10 h-10 bg-brand-blue text-white rounded-full flex items-center justify-center font-serif font-bold text-xl border-4 border-white z-10">
                   {step.id}
                 </div>
               </div>

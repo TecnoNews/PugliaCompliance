@@ -47,7 +47,7 @@ export function Packages({ dict }: { dict: any }) {
           </motion.div>
         </div>
 
-        <div className="grid lg:grid-cols-3 gap-8 items-start">
+        <div className="grid lg:grid-cols-3 gap-8 items-stretch">
           {packages.map((pkg, index) => (
             <motion.div
               key={pkg.id}
@@ -55,7 +55,7 @@ export function Packages({ dict }: { dict: any }) {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8, delay: index * 0.1 }}
-              className={`relative p-10 rounded-[2.5rem] border transition-all duration-300 ${
+              className={`relative flex flex-col p-10 rounded-[2.5rem] border transition-all duration-300 ${
                 pkg.featured
                   ? 'bg-white border-brand-green/20 shadow-2xl shadow-brand-green/10 scale-105 z-10'
                   : 'bg-white/50 border-stone-200 hover:bg-white hover:border-stone-300 hover:shadow-xl'
@@ -76,7 +76,7 @@ export function Packages({ dict }: { dict: any }) {
               <h3 className="text-3xl font-serif font-bold text-stone-900 mb-4">{pkg.data.name}</h3>
               <p className="text-stone-500 font-light leading-relaxed mb-8">{pkg.data.description}</p>
 
-              <div className="space-y-4 mb-10">
+              <div className="space-y-4 mb-10 flex-1">
                 {pkg.data.features.map((feature: string, fIndex: number) => (
                   <div key={fIndex} className="flex items-start gap-3">
                     <div className={`mt-1 p-0.5 rounded-full ${

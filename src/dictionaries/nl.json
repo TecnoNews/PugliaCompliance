@@ -1,0 +1,123 @@
+{
+    "common": {
+      "getStarted": "Begin nu",
+      "contactUs": "Neem contact op",
+      "peaceOfMind": "Gemoedsrust",
+      "basedInPuglia": "Gevestigd in Apulië | Engelstalige professionals"
+    },
+    "nav": {
+      "services": "Diensten",
+      "about": "Over ons",
+      "process": "Proces",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Compliance-service voor vakantieverhuur in Apulië",
+      "subtitle": "Maak uw vakantiewoning volledig conform de wet. Wij regelen alles voor u.",
+      "cta": "Zorg vandaag nog voor uw gemoedsrust"
+    },
+    "problem": {
+      "title": "Nieuwe verplichte vereiste",
+      "description": "De regio Apulië heeft een nieuwe verplichte vereiste ingevoerd. Om legaal te blijven opereren, moet een 'CIA' (melding van start van activiteiten) worden ingediend.",
+      "bullets": [
+        "Het is een strikte wettelijke verplichting van de regio Apulië.",
+        "Specifiek van toepassing op niet-commerciële vakantieverhuur.",
+        "Moet officieel worden ingediend bij het lokale SUAP (één loket voor bedrijfsactiviteiten)."
+      ],
+      "deadline": {
+        "title": "Belangrijke deadline",
+        "date": "30 september 2026",
+        "note": "(voor eigendommen die al geregistreerd zijn in DMS Apulië)"
+      },
+      "risks": {
+        "title": "De risico’s",
+        "description": "Opereren zonder ingediende CIA leidt tot financiële sancties en een niet-toegestane, illegale status voor uw verhuurde woning."
+      }
+    },
+    "barriers": {
+      "title": "De echte barrière",
+      "description": "De wet zelf is slechts een regel; de echte uitdaging zit in de uitvoering. Het proces vereist navigatie door complexe Italiaanse portalen zoals ImpresainGiorno, het verkrijgen van een SPID (digitale identiteit) en communicatie met het lokale SUAP. Voor niet-Italianen vormen de taalbarrière en systemische complexiteit de grootste bedreiging voor uw gemoedsrust."
+    },
+    "solution": {
+      "title": "De bureaucratische puzzel oplossen",
+      "subtitle": "Wij combineren lokale expertise met internationale klantondersteuning.",
+      "dario": {
+        "name": "Dario",
+        "role": "Lokale belastingadviseur",
+        "description": "Gevestigd in Apulië, expert in regionale regelgeving en met uitgebreide praktische kennis van het Italiaanse belastingstelsel."
+      },
+      "maria": {
+        "name": "Maria",
+        "role": "Expert internationale relaties",
+        "description": "Een specialist in internationale relaties met een sterk netwerk van buitenlandse klanten. Zij overbrugt culturele verschillen en zorgt ervoor dat u volledig wordt ondersteund. Beheert talrijke administratieve procedures."
+      },
+      "fluent": {
+        "title": "Vloeiend in Engels, lokaal in Apulië",
+        "description": "Wij begrijpen dat taal de eerste barrière is voor internationale eigenaren. Onze service is 100% professioneel en 100% begrijpelijk. Wij vertalen complexe Italiaanse fiscale en regionale wetgeving naar duidelijk en bruikbaar Engels."
+      }
+    },
+    "packages": {
+      "title": "Oplossingen op maat voor uw specifieke behoeften",
+      "subtitle": "Wij hebben onze compliance-diensten in drie duidelijke niveaus gestructureerd.",
+      "basic": {
+        "name": "BASIC",
+        "description": "De essentiële service om aan de regionale verplichtingen te voldoen.",
+        "features": [
+          "Controle van geschiktheidsvereisten",
+          "Opstellen van het CIA-document",
+          "Officiële indiening bij het lokale SUAP",
+          "Levering van de officieel geregistreerde ontvangstbevestiging",
+          "Doorlopende e-mailondersteuning in het Engels"
+        ]
+      },
+      "plus": {
+        "name": "PLUS",
+        "description": "Uitgebreid met extra systeemtoegang en duidelijkheid.",
+        "features": [
+          "Alle BASIC-diensten",
+          "Persoonlijke ondersteuning bij het verkrijgen van een SPID",
+          "Praktische hulp bij vereiste regionale registraties",
+          "Een gepersonaliseerde mini-belastinggids, volledig in het Engels geschreven"
+        ]
+      },
+      "premium": {
+        "name": "PREMIUM",
+        "description": "De ultieme bescherming voor uw investering, met gemoedsrust het hele jaar door.",
+        "features": [
+          "Alle PLUS-diensten",
+          "Gespecialiseerd belastingadvies voor korte termijn verhuur",
+          "Volledige ondersteuning voor IMU (gemeentelijke onroerendgoedbelasting)",
+          "Volledige ondersteuning en vertegenwoordiging bij controles",
+          "Doorlopende jaarlijkse ondersteuning voor uw woning"
+        ]
+      }
+    },
+    "process": {
+      "title": "Een duidelijk en eenvoudig proces",
+      "step1": {
+        "title": "Neem contact op",
+        "description": "Neem contact met ons op om uw specifieke woning te bespreken."
+      },
+      "step2": {
+        "title": "Beoordeling",
+        "description": "Wij leveren een duidelijke checklist van documenten, een nauwkeurige planning en een eenvoudig contract in het Engels."
+      },
+      "step3": {
+        "title": "Ontspan",
+        "description": "Kies uw pakket en laat ons de bureaucratie regelen terwijl u geniet van uw woning in Apulië."
+      }
+    },
+    "footer": {
+      "partnership": "Een langdurig partnerschap voor uw woning",
+      "description": "De CIA is slechts het beginpunt. Wij zijn er om uw investering vandaag te beschermen en deze voor de toekomst te optimaliseren.",
+      "contactTitle": "Neem contact op",
+      "nameLabel": "Volledige naam",
+      "emailLabel": "E-mailadres",
+      "messageLabel": "Bericht",
+      "messagePlaceholder": "Hoe kunnen wij u helpen?",
+      "sendButton": "Bericht verzenden",
+      "successMessage": "Bericht succesvol verzonden! We nemen zo snel mogelijk contact met u op.",
+      "errorMessage": "Er is iets misgegaan. Probeer het opnieuw of e-mail ons direct.",
+      "rights": "Alle rechten voorbehouden."
+    }
+  }

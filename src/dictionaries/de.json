@@ -1,0 +1,123 @@
+{
+    "common": {
+      "getStarted": "Jetzt starten",
+      "contactUs": "Kontaktieren Sie uns",
+      "peaceOfMind": "Sorgenfreiheit",
+      "basedInPuglia": "Mit Sitz in Apulien | Englischsprachige Fachleute"
+    },
+    "nav": {
+      "services": "Dienstleistungen",
+      "about": "Über uns",
+      "process": "Ablauf",
+      "contact": "Kontakt"
+    },
+    "hero": {
+      "title": "Compliance-Service für Ferienvermietungen in Apulien",
+      "subtitle": "Machen Sie Ihr Ferienhaus vollständig rechtskonform. Wir kümmern uns um alles.",
+      "cta": "Sichern Sie sich noch heute Ihre Sorgenfreiheit"
+    },
+    "problem": {
+      "title": "Neue verpflichtende Anforderung",
+      "description": "Die Region Apulien hat eine neue verpflichtende Anforderung eingeführt. Um weiterhin legal tätig zu sein, muss eine „CIA“ (Tätigkeitsaufnahmeerklärung) eingereicht werden.",
+      "bullets": [
+        "Es handelt sich um eine strenge gesetzliche Vorgabe der Region Apulien.",
+        "Gilt speziell für nicht-gewerbliche Ferienvermietungen.",
+        "Muss offiziell beim zuständigen SUAP (Einheitlicher Ansprechpartner für produktive Tätigkeiten) eingereicht werden."
+      ],
+      "deadline": {
+        "title": "Wichtige Frist",
+        "date": "30. September 2026",
+        "note": "(für bereits im DMS Apulien registrierte Immobilien)"
+      },
+      "risks": {
+        "title": "Die Risiken",
+        "description": "Der Betrieb ohne eingereichte CIA führt zu finanziellen Sanktionen sowie zu einem nicht genehmigten und illegalen Status Ihrer Mietimmobilie."
+      }
+    },
+    "barriers": {
+      "title": "Die eigentliche Hürde",
+      "description": "Das Gesetz selbst ist nur eine Vorschrift; die eigentliche Schwierigkeit liegt in der Umsetzung. Der Prozess erfordert die Navigation durch komplexe italienische Portale wie ImpresainGiorno, die Beantragung eines SPID (digitale Identität) sowie den Umgang mit dem lokalen SUAP. Für Nicht-Italiener stellen Sprachbarrieren und systemische Komplexität die größte Herausforderung dar."
+    },
+    "solution": {
+      "title": "Das bürokratische Puzzle lösen",
+      "subtitle": "Wir verbinden lokale Fachkompetenz mit internationaler Kundenbetreuung.",
+      "dario": {
+        "name": "Dario",
+        "role": "Lokaler Steuerberater",
+        "description": "Mit Sitz in Apulien, absoluter Experte für regionale Vorschriften und erfahren in der gesamten italienischen Steuerregulierung."
+      },
+      "maria": {
+        "name": "Maria",
+        "role": "Expertin für internationale Beziehungen",
+        "description": "Expertin für internationale Beziehungen mit einem etablierten Netzwerk ausländischer Kunden. Sie überbrückt kulturelle Unterschiede und stellt sicher, dass Sie umfassend betreut werden. Sie verwaltet zahlreiche administrative Verfahren."
+      },
+      "fluent": {
+        "title": "Fließend in Englisch, zu Hause in Apulien",
+        "description": "Wir wissen, dass Sprache für internationale Eigentümer die erste Hürde ist. Unser Service ist zu 100 % professionell und zu 100 % verständlich. Wir übersetzen komplexe italienische Steuer- und Regionalgesetze in klares, umsetzbares Englisch."
+      }
+    },
+    "packages": {
+      "title": "Maßgeschneiderte Lösungen für Ihre individuellen Bedürfnisse",
+      "subtitle": "Wir haben unsere Compliance-Dienstleistungen in drei klar definierte Stufen gegliedert.",
+      "basic": {
+        "name": "BASIC",
+        "description": "Der wesentliche Service zur Einhaltung der regionalen Vorschriften.",
+        "features": [
+          "Prüfung der Zulassungsvoraussetzungen",
+          "Erstellung des CIA-Dokuments",
+          "Offizielle Einreichung beim lokalen SUAP",
+          "Bereitstellung der offiziell registrierten Empfangsbestätigung",
+          "Fortlaufender E-Mail-Support auf Englisch"
+        ]
+      },
+      "plus": {
+        "name": "PLUS",
+        "description": "Erweitert mit zusätzlichem Systemzugang und Klarheit.",
+        "features": [
+          "Alle BASIC-Leistungen",
+          "Individuelle Unterstützung bei der Beantragung des SPID",
+          "Praktische Unterstützung bei erforderlichen regionalen Registrierungen",
+          "Eine personalisierte steuerliche Mini-Anleitung, vollständig auf Englisch verfasst"
+        ]
+      },
+      "premium": {
+        "name": "PREMIUM",
+        "description": "Der ultimative Schutz für Ihre Investition – für ganzjährige Sorgenfreiheit.",
+        "features": [
+          "Alle PLUS-Leistungen",
+          "Spezialisierte Steuerberatung für Kurzzeitvermietungen",
+          "Umfassende IMU-Unterstützung (Gemeindesteuer)",
+          "Vollständige Unterstützung und Vertretung im Falle einer Prüfung",
+          "Laufende jährliche Betreuung Ihrer Immobilie"
+        ]
+      }
+    },
+    "process": {
+      "title": "Ein klarer und einfacher Ablauf",
+      "step1": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Nehmen Sie Kontakt mit uns auf, um Ihre spezifische Immobilie zu besprechen."
+      },
+      "step2": {
+        "title": "Überprüfung",
+        "description": "Wir liefern eine klare Dokumenten-Checkliste, einen präzisen Zeitplan und einen einfachen Vertrag auf Englisch."
+      },
+      "step3": {
+        "title": "Entspannen Sie sich",
+        "description": "Wählen Sie Ihr Paket und lassen Sie uns die Bürokratie erledigen, während Sie Ihr Zuhause in Apulien genießen."
+      }
+    },
+    "footer": {
+      "partnership": "Eine langfristige Partnerschaft für Ihre Immobilie",
+      "description": "Die CIA ist nur der Einstieg. Wir sind hier, um Ihre Investition heute zu schützen und sie für die Zukunft zu optimieren.",
+      "contactTitle": "Kontaktieren Sie uns",
+      "nameLabel": "Vollständiger Name",
+      "emailLabel": "E-Mail-Adresse",
+      "messageLabel": "Nachricht",
+      "messagePlaceholder": "Wie können wir Ihnen helfen?",
+      "sendButton": "Nachricht senden",
+      "successMessage": "Nachricht erfolgreich gesendet! Wir melden uns bald bei Ihnen.",
+      "errorMessage": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt per E-Mail.",
+      "rights": "Alle Rechte vorbehalten."
+    }
+  }

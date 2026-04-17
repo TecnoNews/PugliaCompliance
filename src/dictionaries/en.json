@@ -116,6 +116,8 @@
     "messageLabel": "Message",
     "messagePlaceholder": "How can we help you?",
     "sendButton": "Send Message",
+    "successMessage": "Message sent successfully! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again or email us directly.",
     "rights": "All rights reserved."
   }
 }

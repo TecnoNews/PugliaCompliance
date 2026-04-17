@@ -11,7 +11,8 @@ const locales = [
   { code: 'en', name: 'English' },
   { code: 'it', name: 'Italiano' },
   { code: 'fr', name: 'Français' },
-  { code: 'es', name: 'Español' },
+  { code: 'nl', name: 'Nederlands' },
+  { code: 'de', name: 'Deutsch' },
 ];
 
 export function Navbar({ lang, dict }: { lang: string; dict: any }) {

@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "title": "Puglia Compliance | Service de Conformité pour Locations de Vacances",
+    "description": "Rendez votre maison de vacances en Pouilles entièrement conforme au nouveau mandat CIA. Nous gérons tout, de l'enregistrement au conseil fiscal."
+  },
   "common": {
     "getStarted": "Commencer",
     "contactUs": "Contactez-nous",

@@ -26,10 +26,15 @@ export async function POST(request: Request) {
 
         return NextResponse.json({ success: true });
     } catch (error) {
-        console.error("[contact] sendMail error:", error);
-        console.error("SMTP_USER:", process.env.SMTP_USER ?? "MISSING");
         return NextResponse.json(
-            { success: false, error: error instanceof Error ? error.message : "Unknown error" },
+            {
+                success: false,
+                error: error instanceof Error ? error.message : "Unknown error",
+                debug: {
+                    SMTP_USER: process.env.SMTP_USER ?? "MISSING",
+                    SMTP_PASS: process.env.SMTP_PASS ? "SET" : "MISSING",
+                },
+            },
             { status: 500 }
         );
     }
